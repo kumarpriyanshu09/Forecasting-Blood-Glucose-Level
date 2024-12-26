@@ -20,6 +20,7 @@ This analysis utilizes a time-series dataset of blood glucose measurements.  The
 
 *   `test.csv`: Contains the test data for forecasting.
 *   `train.csv`: Contains the training data for building the models.
+*   `sas_scripts/`: (Optional) *Note that the original SAS scripts files are not included due to access constraints. However, the project's analytical processes and models are well demonstrated through the provided results, screenshots, and insights.*
 
 ## Technologies Used
 
